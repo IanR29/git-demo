@@ -1,13 +1,3 @@
-#Demo Git Repository
+nelutu 1
 
-This is the 1st line in this repo. 
-
-
-###website contenst
-
-heere are the file from the wbsite 
-
-wiuebawib
-iwub
-10988564445367655590000000122222165777857769835799876542143544569876543211234567890
-123456789012345678908765432123456789012345678900009987654321
+ce mai faci ma ?
